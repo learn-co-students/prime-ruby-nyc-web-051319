@@ -9,5 +9,3 @@ def prime?(int)
     true
   end
 end
-
-puts prime?(1)
